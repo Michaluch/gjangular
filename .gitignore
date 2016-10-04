@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*.whoosh
+*.db
+*.egg-info
+*.ini
+*.db
+*/.ropeproject/
+/node_modules/
